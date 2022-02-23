@@ -701,7 +701,7 @@
 				</div>
 			</div>
 		<!--content-->
-	@include('footer');
+	@include('footer')
 				
 
 </body>
