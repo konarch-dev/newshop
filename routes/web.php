@@ -50,6 +50,10 @@ Route::get('/single', function () {
 });
 
 
+Route::get('/mail', function () {
+    return view('mail');
+});
+
 Route::get('send-mail', function () {
    
     $details = [
