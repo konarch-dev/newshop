@@ -124,40 +124,40 @@
 									<h3>Top Rates products</h3>
 									<div class="recent-grids">
 										<div class="recent-left">
-											<a href="single.html"><img class="img-responsive " src="images/r.jpg" alt=""></a>	
+											<a href="single"><img class="img-responsive " src="images/r.jpg" alt=""></a>	
 										</div>
 										<div class="recent-right">
-											<h6 class="best2"><a href="single.html">Lorem ipsum dolor </a></h6>
+											<h6 class="best2"><a href="single">Lorem ipsum dolor </a></h6>
 											<p><del>$100.00</del> <em class="item_price">$09.00</em></p>
 										</div>	
 										<div class="clearfix"> </div>
 									</div>
 									<div class="recent-grids">
 										<div class="recent-left">
-											<a href="single.html"><img class="img-responsive " src="images/r1.jpg" alt=""></a>	
+											<a href="single"><img class="img-responsive " src="images/r1.jpg" alt=""></a>	
 										</div>
 										<div class="recent-right">
-											<h6 class="best2"><a href="single.html">Duis aute irure </a></h6>
+											<h6 class="best2"><a href="single">Duis aute irure </a></h6>
 											<p><del>$100.00</del> <em class="item_price">$19.00</em></p>
 										</div>	
 										<div class="clearfix"> </div>
 									</div>
 									<div class="recent-grids">
 										<div class="recent-left">
-											<a href="single.html"><img class="img-responsive " src="images/r2.jpg" alt=""></a>	
+											<a href="single"><img class="img-responsive " src="images/r2.jpg" alt=""></a>	
 										</div>
 										<div class="recent-right">
-											<h6 class="best2"><a href="single.html">Lorem ipsum dolor </a></h6>
+											<h6 class="best2"><a href="single">Lorem ipsum dolor </a></h6>
 											<p><del>$100.00</del> <em class="item_price">$39.00</em></p>
 										</div>
 										<div class="clearfix"> </div>
 									</div>
 									<div class="recent-grids">
 										<div class="recent-left">
-											<a href="single.html"><img class="img-responsive " src="images/r3.jpg" alt=""></a>	
+											<a href="single"><img class="img-responsive " src="images/r3.jpg" alt=""></a>	
 										</div>
 										<div class="recent-right">
-											<h6 class="best2"><a href="single.html">Ut enim ad minim </a></h6>
+											<h6 class="best2"><a href="single">Ut enim ad minim </a></h6>
 											<p><em class="item_price">$39.00</em></p>
 										</div>	
 										<div class="clearfix"> </div>
@@ -238,7 +238,7 @@
 															<div class="starbox small ghosting"> </div>
 														</div>
 														<div class="women">
-															<h6><a href="single.html">Sed ut perspiciatis unde</a></h6>
+															<h6><a href="single">Sed ut perspiciatis unde</a></h6>
 															<span class="size">XL / XXL / S </span>
 															<p ><del>$100.00</del><em class="item_price">$70.00</em></p>
 															<a href="#" data-text="Add To Cart" class="my-cart-b item_add">Add To Cart</a>
@@ -263,7 +263,7 @@
 															<div class="starbox small ghosting"> </div>
 														</div>
 														<div class="women">
-															<h6><a href="single.html">Sed ut perspiciatis unde</a></h6>
+															<h6><a href="single">Sed ut perspiciatis unde</a></h6>
 															<span class="size">XL / XXL / S </span>
 															<p ><del>$100.00</del><em class="item_price">$70.00</em></p>
 															<a href="#" data-text="Add To Cart" class="my-cart-b item_add">Add To Cart</a>
@@ -288,7 +288,7 @@
 															<div class="starbox small ghosting"> </div>
 														</div>
 														<div class="women">
-															<h6><a href="single.html">Sed ut perspiciatis unde</a></h6>
+															<h6><a href="single">Sed ut perspiciatis unde</a></h6>
 															<span class="size">XL / XXL / S </span>
 															<p ><del>$100.00</del><em class="item_price">$70.00</em></p>
 															<a href="#" data-text="Add To Cart" class="my-cart-b item_add">Add To Cart</a>
@@ -316,7 +316,7 @@
 															<div class="starbox small ghosting"> </div>
 														</div>
 														<div class="women">
-															<h6><a href="single.html">Sed ut perspiciatis unde</a></h6>
+															<h6><a href="single">Sed ut perspiciatis unde</a></h6>
 															<span class="size">XL / XXL / S </span>
 															<p ><del>$100.00</del><em class="item_price">$70.00</em></p>
 															<a href="#" data-text="Add To Cart" class="my-cart-b item_add">Add To Cart</a>
@@ -341,7 +341,7 @@
 															<div class="starbox small ghosting"> </div>
 														</div>
 														<div class="women">
-															<h6><a href="single.html">Sed ut perspiciatis unde</a></h6>
+															<h6><a href="single">Sed ut perspiciatis unde</a></h6>
 															<span class="size">XL / XXL / S </span>
 															<p ><del>$100.00</del><em class="item_price">$70.00</em></p>
 															<a href="#" data-text="Add To Cart" class="my-cart-b item_add">Add To Cart</a>
@@ -366,7 +366,7 @@
 															<div class="starbox small ghosting"> </div>
 														</div>
 														<div class="women">
-															<h6><a href="single.html">Sed ut perspiciatis unde</a></h6>
+															<h6><a href="single">Sed ut perspiciatis unde</a></h6>
 															<span class="size">XL / XXL / S </span>
 															<p ><del>$100.00</del><em class="item_price">$70.00</em></p>
 															<a href="#" data-text="Add To Cart" class="my-cart-b item_add">Add To Cart</a>
@@ -394,7 +394,7 @@
 															<div class="starbox small ghosting"> </div>
 														</div>
 														<div class="women">
-															<h6><a href="single.html">Sed ut perspiciatis unde</a></h6>
+															<h6><a href="single">Sed ut perspiciatis unde</a></h6>
 															<span class="size">XL / XXL / S </span>
 															<p ><del>$100.00</del><em class="item_price">$70.00</em></p>
 															<a href="#" data-text="Add To Cart" class="my-cart-b item_add">Add To Cart</a>
@@ -419,7 +419,7 @@
 															<div class="starbox small ghosting"> </div>
 														</div>
 														<div class="women">
-															<h6><a href="single.html">Sed ut perspiciatis unde</a></h6>
+															<h6><a href="single">Sed ut perspiciatis unde</a></h6>
 															<span class="size">XL / XXL / S </span>
 															<p ><del>$100.00</del><em class="item_price">$70.00</em></p>
 															<a href="#" data-text="Add To Cart" class="my-cart-b item_add">Add To Cart</a>
@@ -444,7 +444,7 @@
 															<div class="starbox small ghosting"> </div>
 														</div>
 														<div class="women">
-															<h6><a href="single.html">Sed ut perspiciatis unde</a></h6>
+															<h6><a href="single">Sed ut perspiciatis unde</a></h6>
 															<span class="size">XL / XXL / S </span>
 															<p ><del>$100.00</del><em class="item_price">$70.00</em></p>
 															<a href="#" data-text="Add To Cart" class="my-cart-b item_add">Add To Cart</a>
@@ -472,7 +472,7 @@
 															<div class="starbox small ghosting"> </div>
 														</div>
 														<div class="women">
-															<h6><a href="single.html">Sed ut perspiciatis unde</a></h6>
+															<h6><a href="single">Sed ut perspiciatis unde</a></h6>
 															<span class="size">XL / XXL / S </span>
 															<p ><del>$100.00</del><em class="item_price">$70.00</em></p>
 															<a href="#" data-text="Add To Cart" class="my-cart-b item_add">Add To Cart</a>
@@ -497,7 +497,7 @@
 															<div class="starbox small ghosting"> </div>
 														</div>
 														<div class="women">
-															<h6><a href="single.html">Sed ut perspiciatis unde</a></h6>
+															<h6><a href="single">Sed ut perspiciatis unde</a></h6>
 															<span class="size">XL / XXL / S </span>
 															<p ><del>$100.00</del><em class="item_price">$70.00</em></p>
 															<a href="#" data-text="Add To Cart" class="my-cart-b item_add">Add To Cart</a>
@@ -522,7 +522,7 @@
 															<div class="starbox small ghosting"> </div>
 														</div>
 														<div class="women">
-															<h6><a href="single.html">Sed ut perspiciatis unde</a></h6>
+															<h6><a href="single">Sed ut perspiciatis unde</a></h6>
 															<span class="size">XL / XXL / S </span>
 															<p ><del>$100.00</del><em class="item_price">$70.00</em></p>
 															<a href="#" data-text="Add To Cart" class="my-cart-b item_add">Add To Cart</a>
@@ -555,7 +555,7 @@
 														<div class="starbox small ghosting"> </div>
 													</div>
 													<div class="women">
-														<h6><a href="single.html">Sed ut perspiciatis unde</a></h6>
+														<h6><a href="single">Sed ut perspiciatis unde</a></h6>
 														<span class="size">XL / XXL / S </span>
 														<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Atqui iste locus est, Piso, tibi etiam atque etiam confirmandus, inquam; Refert tamen, quo modo. Quod autem meum munus dicis non equidem recuso, sed te adiungo socium. </p>
 														<p ><del>$100.00</del><em class="item_price">$70.00</em></p>
@@ -586,7 +586,7 @@
 														<div class="starbox small ghosting"> </div>
 													</div>
 													<div class="women">
-														<h6><a href="single.html">Sed ut perspiciatis unde</a></h6>
+														<h6><a href="single">Sed ut perspiciatis unde</a></h6>
 														<span class="size">XL / XXL / S </span>
 														<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Atqui iste locus est, Piso, tibi etiam atque etiam confirmandus, inquam; Refert tamen, quo modo. Quod autem meum munus dicis non equidem recuso, sed te adiungo socium. </p>
 														<p ><del>$100.00</del><em class="item_price">$70.00</em></p>
@@ -618,7 +618,7 @@
 														<div class="starbox small ghosting"> </div>
 													</div>
 													<div class="women">
-														<h6><a href="single.html">Sed ut perspiciatis unde</a></h6>
+														<h6><a href="single">Sed ut perspiciatis unde</a></h6>
 														<span class="size">XL / XXL / S </span>
 														<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Atqui iste locus est, Piso, tibi etiam atque etiam confirmandus, inquam; Refert tamen, quo modo. Quod autem meum munus dicis non equidem recuso, sed te adiungo socium. </p>
 														<p ><del>$100.00</del><em class="item_price">$70.00</em></p>
@@ -650,7 +650,7 @@
 														<div class="starbox small ghosting"> </div>
 													</div>
 													<div class="women">
-														<h6><a href="single.html">Sed ut perspiciatis unde</a></h6>
+														<h6><a href="single">Sed ut perspiciatis unde</a></h6>
 														<span class="size">XL / XXL / S </span>
 														<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Atqui iste locus est, Piso, tibi etiam atque etiam confirmandus, inquam; Refert tamen, quo modo. Quod autem meum munus dicis non equidem recuso, sed te adiungo socium. </p>
 														<p ><del>$100.00</del><em class="item_price">$70.00</em></p>
@@ -681,7 +681,7 @@
 														<div class="starbox small ghosting"> </div>
 													</div>
 													<div class="women">
-														<h6><a href="single.html">Sed ut perspiciatis unde</a></h6>
+														<h6><a href="single">Sed ut perspiciatis unde</a></h6>
 														<span class="size">XL / XXL / S </span>
 														<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Atqui iste locus est, Piso, tibi etiam atque etiam confirmandus, inquam; Refert tamen, quo modo. Quod autem meum munus dicis non equidem recuso, sed te adiungo socium. </p>
 														<p ><del>$100.00</del><em class="item_price">$70.00</em></p>
