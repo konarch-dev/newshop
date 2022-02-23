@@ -32,9 +32,12 @@
 										<p>E-mail:<a href="mailto:konarchpl@gmail.com"> example@mail.com</a></p>
 									</div>
 									<div class="clearfix"></div>
+
+
 								</div>
 								
 								<div class="mail-bottom">
+                                    <p>  </p>
 									<h4>Get In Touch With Us</h4>
 									<form action="#" method="post">
 										<input type="text" value="Name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}" required="">
